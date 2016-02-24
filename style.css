@@ -22,7 +22,7 @@ p {
 
 .main {
   text-align: center;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/move/bg.jpg');
+  background-image: url('bg.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -102,7 +102,7 @@ p {
 /* Feature */
 
 .feature {
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/move/feature.jpg');
+  background-image: url('feature.jpg');
   background-position: center center;
   background-size: cover;
   height: 600px;
@@ -118,7 +118,7 @@ p {
 /* Footer */
 
 .footer {
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/move/footer.jpg');
+  background-image: url('footer.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
